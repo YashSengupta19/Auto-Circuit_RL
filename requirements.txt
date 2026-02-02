@@ -1,0 +1,17 @@
+numpy
+scipy
+matplotlib
+pandas
+gymnasium
+stable-baselines3
+torch
+torchvision
+tensorflow
+tensorboard
+opencv-python
+pygame
+seaborn
+tqdm
+PyLTSpice
+scikit-rf
+vector
